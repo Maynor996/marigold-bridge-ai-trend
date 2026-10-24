@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://remixmeme.com/templates/marigold-bridge-ai-trend"><img src="https://img.shields.io/badge/Live-remixmeme.com-111111?style=for-the-badge" alt="Live" /></a>
   <a href="https://remixmeme.com/zh/templates/marigold-bridge-ai-trend"><img src="https://img.shields.io/badge/中文-remixmeme.com%2Fzh-2ea44f?style=for-the-badge" alt="ZH" /></a>
-  <a href="https://maynor996.github.io/rm-marigold-bridge-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
+  <a href="https://maynor996.github.io/marigold-bridge-ai-trend/"><img src="https://img.shields.io/badge/Pages-landing-6c5ce7?style=for-the-badge" alt="Pages" /></a>
 </p>
 
 **Marigold Bridge AI: Their First Walk on the Puente de Cempasúchil** is one of the AI meme / viral templates on **[Remix Meme](https://remixmeme.com)** (Awesome Meme Video).
@@ -21,7 +21,7 @@ The marigold bridge AI trend turns a photo of someone you lost into a short 3D a
 | **Template** | https://remixmeme.com/templates/marigold-bridge-ai-trend |
 | **中文** | https://remixmeme.com/zh/templates/marigold-bridge-ai-trend |
 | **Catalog home** | https://remixmeme.com |
-| **This landing** | https://maynor996.github.io/rm-marigold-bridge-ai-trend/ |
+| **This landing** | https://maynor996.github.io/marigold-bridge-ai-trend/ |
 
 ## How to use
 
